@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ef1bf99652b92405da7217efefee7d2b
+  - enabled: 1
+    path: Assets/Scenes/LevelScreen.unity
+    guid: 0167123c9db111b4ba5c515fd44576fa
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 40dd168fa9a3ac14e92269c1510b4d30
+  - enabled: 1
+    path: Assets/Scenes/DontDelete/LoadingScreen.unity
+    guid: 4c5f26804733f5640803b80b6671ccdf
+  - enabled: 1
+    path: Assets/Scenes/LessonScenes/IntroLesson1.unity
+    guid: 42ecc9fcfa27f5f4e8c04f62ad23051e
+  - enabled: 1
+    path: Assets/Scenes/LessonScenes/IntroLesson2.unity
+    guid: 3309afa6484854218851c61dc0094752
+  - enabled: 1
+    path: Assets/Scenes/LessonScenes/IntroLesson3.unity
+    guid: 8b5785e60741f4e748d04e96405cf499
+  - enabled: 1
+    path: Assets/Scenes/LessonScenes/IntroLesson4.unity
+    guid: 58e4ad063b1924cac954c2344c358f42
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: afb333c3ef3402441b2d66fd64b2cba0
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: c553662885964c4498db12881774e8c5
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: b1fe077bf08eae84d977eaac36617bd1
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 3619ebd7e714f7e42afcb6afc9643eeb
+  - enabled: 1
+    path: Assets/Scenes/Final Boss.unity
+    guid: 3da1903207f03495297071c189ba1cb1
+  - enabled: 0
+    path: Assets/Scenes/DontDelete/Level 0.unity
+    guid: 66f130f7d9af8b04c8376a867fa0faa1
+  - enabled: 0
+    path: Assets/Scenes/DontDelete/Remade Level 1.unity
+    guid: e6266f4f10f9eec498797721d2cdd410
+  - enabled: 1
+    path: Assets/Scenes/DontDelete/LevelsMenu.unity
+    guid: 3ecbff9902117ec489a514c13afa92ad
+  m_configObjects: {}
